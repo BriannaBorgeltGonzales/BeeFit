@@ -20,9 +20,6 @@
 
 
 
-[Add Friends](Add-Friends.html)
-
-
 
 [Set Goals](Set-Goals.html)
 
