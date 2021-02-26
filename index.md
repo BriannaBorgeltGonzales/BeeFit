@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+[Start Workouts](Start-Workouts.html)
+[Complain About App](Complain-About-App.html)
+[Sing-In Account](Sign-In-Account.html)
+[Create Workouts](Create-Workouts.html)
+[Create Exercises](Create-Exercises.html)
+[Add Friends](Add-Friends.html)
+[Set Goals](Set-Goals.html)
+
 You can use the [editor on GitHub](https://github.com/BriannaBorgeltGonzales/BeeFit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
