@@ -1,14 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to BeeFit
+
+[Register](Register.html)
+
+
+
+[Login](Login.html)
+
+
+
+[Logout](Logout.html)
+
+
+
+[Set Goals](Set-Goals.html)
+
+
+
+[Track Progress](Track-Progress.html)
+
+
 
 [Start Workouts](Start-Workouts.html)
 
 
 
-[Complain About App](Complain-About-App.html)
+[Track Workouts](Track-Workouts.html)
 
 
 
-[Login](Login.html)
+[Cancel Workouts](Cancel-Workouts.html)
+
+
+
+[View Past Workouts](View-Past-Workouts.html)
 
 
 
@@ -20,27 +44,54 @@
 
 
 
+[Add Exercises to Workouts](Add-Exercises-To-Workouts.html)
+
+
+
+[Delete Workouts](Delete-Workouts.html)
+
+
+
+[Remove Exercises](Remove-Exercises.html)
+
+
+
+[Delete Exercises](Delete-Exercises.html)
+
+
+
+[Change Exercises](Change-Exercises.html)
+
+
+
 [Add Friends](Add-Friends.html)
 
 
 
-[Set Goals](Set-Goals.html)
+[Perform Friends Workouts](Perform-Workouts.html)
 
 
 
-[Logout](Logout.html)
+[View Friends Progress](View-Friends-Progress.html)
 
 
 
-[Perform Workouts](Perform-Workouts.html)
+[Remove Friends](Remove-Friends.html)
 
 
 
-[Register](Register.html)
+[Complain About App](Complain-About-App.html)
 
 
 
-[View Past Workouts](View-Past-Workouts.html)
+[Report Technical Issues](Repor-Technical-Issues.html)
+
+
+
+[Recover Data](Recover-Data.html)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/BriannaBorgeltGonzales/BeeFit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
