@@ -84,7 +84,7 @@
 
 
 
-[Report Technical Issues](Repor-Technical-Issues.html)
+[Report Technical Issues](Report-Technical-Issues.html)
 
 
 

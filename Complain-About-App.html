@@ -5,7 +5,37 @@
     </head>
     <body>
         <h1>Complain About App</h1>
+
+        <h2>Complaint</h2>
+        <input type="text"  placeholder="Title">        <br>
+
+        <h2>Description</h2>
+        <div>Please describe your complaint:</div>
+        <textarea rows=5 cols=50></textarea><br><br>
+
+        <h2>Type</h2>
+        <div>Click on all types that apply:</div>
+        <input type="checkbox"><label>Bug</label><br>
+        <input type="checkbox"><label>Enhancement</label><br>
+        <input  type="checkbox"><label>Technical</label><br>
+        <input type="checkbox"><label>Other: </label><input type="text" placeholder="Specify:"><br>
+        <br>
+
+        <h2>Rating (Severe = 5  Not Severe = 1)</h2>
+        <select>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+        </select><br><br>
+        <input type="button"    value="Submit" onclick="location.href='ComplaintSubmit.html'"><br>
+        <br>
+
         <h2>Report Technical Issues</h2>
+        <a href="Report-Technical-Issues.html">Report Technical Issues</a>
+        <br>
+        
         <a href="index.html">HOME</a>
     </body>
 </html>
